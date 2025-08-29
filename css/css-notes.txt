@@ -1,0 +1,32 @@
+color:blue;
+//css declaration
+{
+    color:red;
+    font-size:45px;
+}
+//css rule
+selector {
+    color:red;
+    font-size:45px;
+}
+selector =>1. element selector 
+write element name as selector
+eg . => 
+p,h1,h3 
+2. id selector => 
+give unique id to any element you want to style
+
+to access id as selector , use # before its name
+<p id="a">hello</p>
+ 
+ #a{
+ }
+ 3. class selector =>
+give class to any element you want to style
+to access class as selector , use . before its name
+<p class="a">hello</p>
+ 
+ .a{
+
+ }
+
